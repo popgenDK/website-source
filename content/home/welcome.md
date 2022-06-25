@@ -19,4 +19,6 @@ design:
 
 <br>
 
-We are meta group of labs that work with various parts of population, medical and statistical genetics at the Biocenter at University of Copenhagen. The meta group consists of 5 labs that works with focus on different organisms and systems. We apply and develop methods for analyzing large scale next generation sequencing data.
+We are meta group of labs that work with various parts of population, medical and statistical genetics at the Biocenter at University of Copenhagen.
+{style="color: red"}
+The meta group consists of 5 labs that works with focus on different organisms and systems. We apply and develop methods for analyzing large scale next generation sequencing data.
