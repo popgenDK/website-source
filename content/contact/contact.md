@@ -53,4 +53,4 @@ design:
   columns: '1'
 ---
 
-I'm not a robot :D
+Please tell us who you are. At least you are not a robot :D

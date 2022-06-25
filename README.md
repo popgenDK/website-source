@@ -9,7 +9,8 @@
 
 ### Requirements
 
-- go
-- hugo
+- [go](https://go.dev/dl/)
+- [hugo](https://gohugo.io/getting-started/installing/)
+- git
 - any editors you like
 
