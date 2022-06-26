@@ -8,7 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 # if true then it will show up on each post
-superuser: true
+superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Professor of Population Genetics
