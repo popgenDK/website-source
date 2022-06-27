@@ -30,5 +30,6 @@ projects: []
 
 PCAone's manuscript is out! See what people are saying.
 
+The details of PCAone are described in our [population structure inference course. click me!]({{< relref "/projects/population-structure/pcaone" >}})
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">PCAone: fast and accurate out-of-core PCA framework for large scale biobank data <a href="https://t.co/dDnNzNsKJP">https://t.co/dDnNzNsKJP</a> <a href="https://t.co/rt28Zof1B7">pic.twitter.com/rt28Zof1B7</a></p>&mdash; antisense. (@razoralign) <a href="https://twitter.com/razoralign/status/1530214595440148481?ref_src=twsrc%5Etfw">May 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
