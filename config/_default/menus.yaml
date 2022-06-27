@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Software
-    url: software
-    weight: 10
   - name: News
     url: post
-    weight: 20
+    weight: 10
   - name: People
     url: people
+    weight: 20
+  - name: Software
+    url: software
     weight: 30
   - name: Courses
     weight: 40
