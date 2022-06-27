@@ -1,11 +1,12 @@
 # Welcome to the UCPH Popgen group's website
 
+https://popgendk.github.io/
 
 ## Guide of editing the content
 
-The files you need to edit are markdown files with ```.md``` suffix. Here is the [markdown syntax](https://wowchemy.com/docs/content/writing-markdown-latex/) for quick lookup.
+The files you need to edit are markdown files with ```.md``` suffix. Here is the [markdown syntax](https://wowchemy.com/docs/content/writing-markdown-latex/) supported by ```hugo``` for quick lookup.
 
-### Edit the content online
+## Edit the content online
 
 The only fold you need to touch is the ```content``` fold if you just wanna create some contents instead of changing the website's UI.
 
