@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PCAone: fast and accurate out-of-core PCA framework for large scale biobank data"
+title: "PCA-Admixone"
 subtitle: ""
 summary: ""
 authors: []

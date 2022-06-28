@@ -26,17 +26,6 @@ module:
 
 
 ############################
-## PAGE OPTIONS
-############################
-
-# cascade:
-#   # Docs folder options
-#   - _target:
-#       path: /course/**
-#     editable: true
-#     show_breadcrumb: true
-
-############################
 ## ADVANCED
 ############################
 
@@ -54,6 +43,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
+  # https://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
